@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
 
-  root 'sills#index'
+  root 'skills#index'
   
 end
