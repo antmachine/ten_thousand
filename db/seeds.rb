@@ -43,5 +43,25 @@ Skill.create([{
 
 Comment.create([{
 	skill_id: '1',
-	
+	content: 'I did stuff on this today.'
+}])
+
+Comment.create([{
+	skill_id: '2',
+	content: 'I more did stuff on this today.'
+}])
+
+Comment.create([{
+	skill_id: '3',
+	content: 'I did stuff more more on this today.'
+}])
+
+Comment.create([{
+	skill_id: '4',
+	content: 'I did stuff on this today.'
+}])
+
+Comment.create([{
+	skill_id: '1',
+	content: 'I did the most stuff on this today.'
 }])

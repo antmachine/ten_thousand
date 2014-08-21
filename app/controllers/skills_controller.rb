@@ -6,8 +6,12 @@ class SkillsController < ActionController::Base
 		
 	end
 
+	def new
+		
+	end
+
 	def show
 		@skil = Skill.find(skill_id)
 	end
-	
+
 end
