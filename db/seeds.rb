@@ -43,5 +43,5 @@ Skill.create([{
 
 Comment.create([{
 	skill_id: '1',
-		
+	
 }])
