@@ -1,4 +1,4 @@
-class SkillsController < ActionController::Base
+class SkillsController < ApplicationController
 	protect_from_forgery with: :exception
 
 	def index
